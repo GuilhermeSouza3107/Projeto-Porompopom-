@@ -16,6 +16,8 @@ main.py — o programa responsável pela coleta de informações
 
 modelo.txt — o currículo base, semi-pronto
 
+talvez o html
+
 Dentro da aplicação:
 
 O usuário executa o main.py.
