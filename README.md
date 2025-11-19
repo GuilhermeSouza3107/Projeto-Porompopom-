@@ -1,19 +1,45 @@
-# Projeto-Porompopom-
-Olá a todos!, Essa é a execução de nosso projeto sobre as famílias circenses e suas adaptações a cidade grande 
+🎪 Projeto Porompopom
+Inclusão Econômica e Preservação Cultural de Famílias Circenses na Cidade Grande
 
-Nosos projeto tem como o desafio:
+Bem-vindo(a)!
+Este repositório apresenta a execução do nosso projeto sobre as famílias circenses e suas adaptações ao ambiente urbano, explorando os desafios e caminhos possíveis para sua inclusão econômica sem perder sua identidade cultural.
 
+🎯 Desafio do Projeto
 
-Como Garantir a Inclusão econômica e Preservar a Identidade Cultural das Famílias de circo em Transição para a Cidade Grande, Atingindo a Estabilidade em Novos empregos e Moradia estavel de maneira rápida e eficaz.<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3f38ee67-034c-4119-bf30-1d671194b628" />
+Como garantir a inclusão econômica e preservar a identidade cultural das famílias de circo em transição para a cidade grande, alcançando estabilidade em novos empregos e moradia de maneira rápida e eficaz?
 
+🖥️ Sobre a Aplicação
 
+O projeto consiste em uma página HTML que permitirá o download de um arquivo .zip contendo:
 
-Ele ira ser uma página html que fara dowload de um script em .py (no qual funcionara o programa) já que .exe ainda não é de nosso conhecimento
+main.py — o programa responsável pela coleta de informações
 
-by- 
+modelo.txt — o currículo base, semi-pronto
+
+Dentro da aplicação:
+
+O usuário executa o main.py.
+
+O programa coleta as informações pessoais.
+
+Um currículo personalizado é gerado automaticamente.
+
+O arquivo final é entregue em PDF.
+
+O usuário é redirecionado novamente ao site.
+
+O site exibe vagas de emprego para que ele possa enviar o currículo recém-criado.
+
+📝 Objetivo
+
+Facilitar o acesso a oportunidades de trabalho para famílias circenses, oferecendo uma ferramenta simples, rápida e eficiente para criar currículos personalizados e visualizar vagas disponíveis.
+
+👥 Integrantes do Projeto
 
 Guilherme Souza Pereira
-Daniel Henrique 
-Rodrigo Augusto
-Vitor Gabriel 
 
+Daniel Henrique
+
+Rodrigo Augusto
+
+Vitor Gabriel
