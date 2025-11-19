@@ -1,4 +1,4 @@
-🎪 Projeto Porompopom
+🎪 Projeto Porompopom:
 Inclusão Econômica e Preservação Cultural de Famílias Circenses na Cidade Grande
 
 Bem-vindo(a)!
