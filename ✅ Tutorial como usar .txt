@@ -1,0 +1,97 @@
+✅ 1. Baixar o Arquivo .zip
+
+Na página HTML do projeto, clique no botão Download.
+
+Você receberá um arquivo .zip contendo:
+
+perguntas.py → Coleta os dados do usuário
+
+curriculo.py → Gera o currículo em .txt e .pdf
+
+dados.py → Arquivo criado automaticamente com as respostas
+
+Descompacte o arquivo .zip em uma pasta de sua preferência.
+
+✅ 2. Instalar o Python (se ainda não tiver)
+
+O sistema foi feito em Python.
+Se você ainda não tem, baixe aqui:
+
+👉 https://python.org
+
+Durante a instalação, marque a opção:
+
+☑ Add Python to PATH
+
+✅ 3. Instalar a Biblioteca Necessária
+
+Abra o CMD/Terminal e digite:
+
+pip install reportlab
+
+
+Essa biblioteca é responsável por transformar o texto do currículo em PDF.
+
+✅ 4. Como Executar o Sistema
+
+Dentro da pasta descompactada:
+
+Clique duas vezes em perguntas.py
+ou
+Abra um terminal na pasta e execute:
+
+python perguntas.py
+
+
+O programa fará perguntas como:
+
+Nome completo
+
+CPF
+
+E-mail
+
+Objetivo profissional
+
+Experiências
+
+Habilidades
+
+Formação
+
+Disponibilidade
+
+etc.
+
+Preencha tudo normalmente e pressione Enter para cada campo.
+
+✅ 5. Arquivos Gerados
+
+Depois de responder tudo, o sistema vai criar automaticamente:
+
+📄 curriculo.txt
+
+Uma versão simples do currículo em texto.
+
+📄 curriculo.pdf
+
+A versão mais profissional, pronta para ser enviada para vagas.
+
+Ambos os arquivos aparecerão na mesma pasta onde o script foi executado.
+
+✅ 6. Visualizar o PDF
+
+Basta abrir o arquivo:
+
+curriculo.pdf
+
+
+Ele estará formatado e prontinho para impressão ou envio.
+
+🧼 7. Privacidade e Segurança
+
+Nenhuma informação é enviada para a internet.
+
+Todos os dados ficam somente no seu computador.
+
+O arquivo dados.py pode ser apagado quando quiser.
